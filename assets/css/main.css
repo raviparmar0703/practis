@@ -282,7 +282,7 @@ body.light-theme{
     text-align: center;
     padding: .4rem;
     height: 100%;
-
+}
 /* Featured articles - Sidebar */
 .sidebar{
     background-color: var(--secondary-background-color);
