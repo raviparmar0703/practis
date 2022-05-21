@@ -434,7 +434,7 @@ body.light-theme{
 /* Quick read */
 .section-title{
     position: relative;
-    font-size: var(--font-size-mdfont-size-md);
+    font-size: var(--font-size-md);
     margin-bottom: 6rem;
 }
 .section-title::before{
